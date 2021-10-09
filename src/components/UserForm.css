@@ -1,0 +1,84 @@
+.title {
+  display: block;
+  text-align: center;
+  color: white;
+
+  margin-bottom: 4rem;
+}
+
+
+
+.input {
+  display: block; 
+  height: 4rem;
+  width: 100%; 
+  
+  text-indent: 1rem;
+  border-radius: 4px;
+  
+  margin-bottom: 2rem;
+}
+
+
+
+.gender-title {
+  display: block;
+  color: white;
+}
+.gender-block {
+  /*display: flex;*/
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+.gender-group {
+  /*width: 50%;*/
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.gender-input {
+  margin-right: 1rem;
+  cursor: pointer;
+}
+.gender-label {
+  color: white;
+  cursor: pointer;
+}
+
+
+
+.date-block {
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+.date-label {
+  display: block;
+  margin-bottom: 1rem;
+  color: white;
+}
+.date-input {
+  display: block; 
+  height: 4rem;
+  width: 100%;
+
+  text-indent: 5px;
+  border-radius: 4px;
+}
+
+
+.button {
+  height: 4rem;
+  width: 100%;
+  background: #32CD32;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border: none;
+  border-radius: 4px;
+
+  font-size: bold;
+  cursor: pointer;
+}
+
+
